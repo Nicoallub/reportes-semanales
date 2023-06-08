@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "reportes-semanales-389216",
+  "private_key_id": "a4603e056d17d41fe9a28093d7fad7c7bd868507",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDLlbXuOmOVxMFn\nl1Lq4HF4YVNlDfWHpcOjCQeHR1bOOpUgzsPrMprTm3T5Nxty9ZAPSsQETlDavZE4\neG3qPCzNeM5XMoXZydWYDQjUXqVWclHgSSBrar596pDQNdqMPGJov0Eg3+sxFEso\nXKmeT+88NLR1crwXST5Udj/EKgxt7eX7qmM+5/sd0T5oTz/dOv/1s9JtTc0WcDva\nZ17NCbz8UQ+ExBN4yoTf2t5ZzZqnbSHUKqjTFFXZzk//8FPI4RCbF6GQQdck333G\nwU2Pv6i3m0t6jS8QjCUMLQfwgq7hNLylnBkurXrsQXF7edTm88OM79KkoEhgliyB\neYmQkXDxAgMBAAECggEAD7Eo9kVa4rLpQ25XDlKhfGloD6x9RejhhQIPqf42Mywx\nzXcSg+EBLRlY8VKtk3VZFsypAjn1In8lH+isdDcSLv5GTVNQHOLhS1iJ2zC2Zszm\nAbcxQAZYy4TWh632/AM1hKRlRT7tNnm9d015J4I6yvW3CSyAUf0ryD/bF2g0UA64\nVGO9jZRPPtUkUgdQFYJk6L4+wZ/sfzNUnWfnzfHA0d3kMXfOxBYCAUTQE0kkaW+x\nje/zkBYuN8qdAok2Riz3KbRms0vaMGX31uwUTonTQTgDJ2t5EWKBO2xMpq/0hTWc\nrsHG3MQ01RV+9A7ihTlSQ0rfzUc8dbjt2ibCCGPmNwKBgQD/8s8NTai2bur1nUTD\nXLMNndOgho+nP/mX9p2+aNGT7zRoAcUFNvciwGrQjw/Dx/TIqcAJFBRYP4i7ni/E\nvY/JBKXB4MJWbuG1saAiYa/IaI3wqemdICzVMSX9sy+rO+b/eNgoqz29Q0aaVo1f\nOoz+2Y7yx6MZYUE/LdZfzWSggwKBgQDLoDP/827qHUgvv+KSWnKXCjQxmpcEqaXB\nOGs6Yl3gcunSPYrDXEQJMbdkHfGfTO3lfIo4xDUccQ3Eka6t1jhar0YXwDGchTsq\ner47y93eE6Tc9aceP42TNddFr38X9ZIo5cr6SsZlL9e+dhe8FcTgy79iWfWE5hMK\nt0PHHDHGewKBgFBNjCzuWqqybkGVkEeDRCJXjFhnH5cn+VV2aNOe63JwsI6ZT4lt\nT2i12k2JNTcF+4UhzUCL7j4p4OqMnQwrNXuqW59St2aK74IkMsvWvmIwe6gwhz1n\nJOnWu8a3e5NL/hPVhGxuHbbN7s7prP1dz3L+K118yW1jGCeMaCAyvwmlAoGAWOxh\nSQk6Cqs29wNJIri1Chi+qlrkUHj1lefZi+mhLX+BdPrDOoV0gL9hYytgdTzXNzyn\n8BpfR0hnxswICIpgmdmpNn4MLFpSeD6aDOr+vRi/Cm+Mx7zhSsRcemYljoUDizCu\n75bwBQhboyVXQCARlknkDkNS4PLIpglaY/2ADzkCgYEAj07VpYptX2ugrQbDwPEb\ngmOVQhFFU/0GDNVdi3X3gB+tGq+ks0p/kUiWYA+E2OrPRKUZzH97QUTFkNDCG1K+\nlG21zztL94hDmILlJqF8yjrnFKwsddchBcL9P1HFdJH3QjDTqXEz27aB31PqDmhY\nsvUlE/mtDcTWABKoyRlE+YU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "reportessemanales@reportes-semanales-389216.iam.gserviceaccount.com",
+  "client_id": "108933648090261321399",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/reportessemanales%40reportes-semanales-389216.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
