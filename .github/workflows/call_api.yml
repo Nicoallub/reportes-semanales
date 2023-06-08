@@ -8,5 +8,5 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Deploy Stage
-      run:
+      run: |
         curl -XGET -H "Content-type: application/json" 'https://reportes-semanales.vercel.app/api/send_weekly_reports.js'
